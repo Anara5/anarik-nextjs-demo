@@ -4,7 +4,6 @@ import { MongoClient, ObjectId } from 'mongodb';
 import MeetupDetail from "../../components/meetups/MeetupDetail";
 
 function MeetupDetails(props) {
-
     return (
         <Fragment>
             <Head>

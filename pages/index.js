@@ -24,7 +24,6 @@ function HomePage(props) {
     
 //     const req = context.req;
 //     const res = context.res;
-
 //     return {
 //         props: {
 //             meetups: DUMMY_MEETUPS
